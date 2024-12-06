@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>zones_ETUDE</name>
+  <Placemark>
+	<name>zone0</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-15.8202777777778,22.2686111111111 -15.8202777777778,21.9427777777778 -16.3475,21.9427777777778 -16.3475,22.2686111111111 -15.8202777777778,22.2686111111111</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>zone1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-15.4686111111111,22.9177777777778 -16.1,22.9177777777778 -16.1,22.2686111111111 -15.4686111111111,22.2686111111111 -15.4686111111111,22.9177777777778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>zone2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-15.1169444444444,22.0794444444444 -15.2927777777778,22.0794444444444 -15.2927777777778,22.9177777777778 -15.1169444444444,22.9177777777778 -15.1169444444444,22.0794444444444</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
